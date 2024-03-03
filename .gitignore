@@ -1,0 +1,12 @@
+#CMakeFiles
+CMakeFiles
+/CMakeCache.txt
+/cmake_install.cmake
+
+#CmakeBuild
+*.exe
+.ninja_deps
+.ninja_log
+/build.ninja
+
+Scanner
