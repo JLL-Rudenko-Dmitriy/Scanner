@@ -3,7 +3,6 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <iostream>
-#include <vector>
 #include <string>
 
 void tryConnect(std::string& ip, uint32_t& port) {
