@@ -5,10 +5,7 @@
 >2. Scanner \<ip> -r <start_port>, <end_port>               //Scanning in range mode
 
 ### How to build project:
-> mkdir CMake \
-> cd CMake \
 > cmake .. -G Ninja \
-> cd .. \
 > cmake --build . 
 
 ### Photo of the program launch
