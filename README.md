@@ -5,10 +5,7 @@
 >2. Scanner \<ip> -r <start_port>, <end_port>               //Передать диапазон для сканирования
 
 ### Как собрать проект:
-> mkdir CMake \
-> cd CMake \
-> cmake .. -G Ninja \
-> cd .. \
+> cmake .. -G Ninja\
 > cmake --build . 
 
 ### Скриншот запуска утилиты
